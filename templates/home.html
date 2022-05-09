@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+
+{% load socialaccount %}
+
+<h1>Django Allauth Application With CRUD Operations</h1>
+{% if user.is_authenticated %}
+<h3>Welcome {{ user.username }} !!!</h3>
+
+<h2>click <a href="/show">here</a> to see all records and perform updation and deletion</h2>
+
+
+
+
+
+
+
+
+{% else %}
+<a href="{% provider_login_url 'github' %}">Sign Up</a>
+{% endif %}
+

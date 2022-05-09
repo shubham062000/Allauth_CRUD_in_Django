@@ -1,0 +1,255 @@
+In this authall project user have to login via Github and then he can click on link and then user can do CRUD operations
+
+If you face any dificulty to use it please contact to join.shubhamtorkade@gmail.com
+
+This project created by Shubham Torkade
+
+
+                                                 <!-- COverage Report  -->
+
+
+
+Name                                                                                      Stmts   Miss  Cover
+-------------------------------------------------------------------------------------------------------------
+/usr/lib/python3/dist-packages/OpenSSL/SSL.py                                               937    680    27%
+/usr/lib/python3/dist-packages/OpenSSL/__init__.py                                            4      0   100%
+/usr/lib/python3/dist-packages/OpenSSL/_util.py                                              52     30    42%
+/usr/lib/python3/dist-packages/OpenSSL/crypto.py                                           1166    917    21%
+/usr/lib/python3/dist-packages/OpenSSL/version.py                                            10      0   100%
+/usr/lib/python3/dist-packages/brotli.py                                                     13      2    85%
+/usr/lib/python3/dist-packages/certifi/__init__.py                                            2      0   100%
+/usr/lib/python3/dist-packages/certifi/core.py                                                5      0   100%
+/usr/lib/python3/dist-packages/chardet/__init__.py                                           11      7    36%
+/usr/lib/python3/dist-packages/chardet/big5freq.py                                            3      0   100%
+/usr/lib/python3/dist-packages/chardet/big5prober.py                                         16      6    62%
+/usr/lib/python3/dist-packages/chardet/chardistribution.py                                  117     83    29%
+/usr/lib/python3/dist-packages/chardet/charsetgroupprober.py                                 72     61    15%
+/usr/lib/python3/dist-packages/chardet/charsetprober.py                                      55     36    35%
+/usr/lib/python3/dist-packages/chardet/codingstatemachine.py                                 28     18    36%
+/usr/lib/python3/dist-packages/chardet/compat.py                                             10      4    60%
+/usr/lib/python3/dist-packages/chardet/cp949prober.py                                        16      6    62%
+/usr/lib/python3/dist-packages/chardet/enums.py                                              35      1    97%
+/usr/lib/python3/dist-packages/chardet/escprober.py                                          58     45    22%
+/usr/lib/python3/dist-packages/chardet/escsm.py                                              17      0   100%
+/usr/lib/python3/dist-packages/chardet/eucjpprober.py                                        49     34    31%
+/usr/lib/python3/dist-packages/chardet/euckrfreq.py                                           3      0   100%
+/usr/lib/python3/dist-packages/chardet/euckrprober.py                                        16      6    62%
+/usr/lib/python3/dist-packages/chardet/euctwfreq.py                                           3      0   100%
+/usr/lib/python3/dist-packages/chardet/euctwprober.py                                        16      6    62%
+/usr/lib/python3/dist-packages/chardet/gb2312freq.py                                          3      0   100%
+/usr/lib/python3/dist-packages/chardet/gb2312prober.py                                       16      6    62%
+/usr/lib/python3/dist-packages/chardet/hebrewprober.py                                       77     48    38%
+/usr/lib/python3/dist-packages/chardet/jisfreq.py                                             3      0   100%
+/usr/lib/python3/dist-packages/chardet/jpcntx.py                                             81     61    25%
+/usr/lib/python3/dist-packages/chardet/langbulgarianmodel.py                                  5      0   100%
+/usr/lib/python3/dist-packages/chardet/langcyrillicmodel.py                                  13      0   100%
+/usr/lib/python3/dist-packages/chardet/langgreekmodel.py                                      5      0   100%
+/usr/lib/python3/dist-packages/chardet/langhebrewmodel.py                                     3      0   100%
+/usr/lib/python3/dist-packages/chardet/langthaimodel.py                                       3      0   100%
+/usr/lib/python3/dist-packages/chardet/langturkishmodel.py                                    3      0   100%
+/usr/lib/python3/dist-packages/chardet/latin1prober.py                                       52     29    44%
+/usr/lib/python3/dist-packages/chardet/mbcharsetprober.py                                    44     33    25%
+/usr/lib/python3/dist-packages/chardet/mbcsgroupprober.py                                    14      3    79%
+/usr/lib/python3/dist-packages/chardet/mbcssm.py                                             41      0   100%
+/usr/lib/python3/dist-packages/chardet/sbcharsetprober.py                                    75     60    20%
+/usr/lib/python3/dist-packages/chardet/sbcsgroupprober.py                                    19      8    58%
+/usr/lib/python3/dist-packages/chardet/sjisprober.py                                         49     34    31%
+/usr/lib/python3/dist-packages/chardet/universaldetector.py                                 124    104    16%
+/usr/lib/python3/dist-packages/chardet/utf8prober.py                                         43     29    33%
+/usr/lib/python3/dist-packages/chardet/version.py                                             2      0   100%
+/usr/lib/python3/dist-packages/cryptography/__about__.py                                     10      0   100%
+/usr/lib/python3/dist-packages/cryptography/__init__.py                                       3      0   100%
+/usr/lib/python3/dist-packages/cryptography/exceptions.py                                    35      4    89%
+/usr/lib/python3/dist-packages/cryptography/hazmat/__init__.py                                2      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/_der.py                                  102     72    29%
+/usr/lib/python3/dist-packages/cryptography/hazmat/_oid.py                                   33     12    64%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/__init__.py                       7      4    43%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/interfaces.py                   139      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/__init__.py               3      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/aead.py                  91     80    12%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/backend.py             1358   1112    18%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/ciphers.py              109     90    17%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/cmac.py                  45     33    27%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/decode_asn1.py          424    348    18%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/dh.py                   155    122    21%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/dsa.py                  150    108    28%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/ec.py                   177    132    25%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/ed448.py                 76     57    25%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/ed25519.py               74     57    23%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/encode_asn1.py          367    316    14%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/hashes.py                43     31    28%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/hmac.py                  44     32    27%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/ocsp.py                 232    142    39%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/poly1305.py              32     22    31%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/rsa.py                  234    189    19%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/utils.py                 36     27    25%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/x448.py                  57     39    32%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/x509.py                 362    243    33%
+/usr/lib/python3/dist-packages/cryptography/hazmat/backends/openssl/x25519.py                65     46    29%
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/__init__.py                       1      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/openssl/__init__.py               1      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/openssl/_conditional.py          90     41    54%
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/openssl/binding.py               97     26    73%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/__init__.py                     1      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/__init__.py         15      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/dh.py              100     37    63%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/dsa.py             121     48    60%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ec.py              243     62    74%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ed448.py            36     12    67%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ed25519.py          38     12    68%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/padding.py          47     20    57%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/rsa.py             175    102    42%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/utils.py            18      9    50%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/x448.py             34     12    65%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/x25519.py           34     12    65%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/__init__.py             3      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/algorithms.py         113     30    73%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/base.py               134     71    47%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/modes.py              124     38    69%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/constant_time.py               15      8    47%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/hashes.py                     152     37    76%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/kdf/__init__.py                 9      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/kdf/scrypt.py                  37     24    35%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/serialization/__init__.py       5      0   100%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/serialization/base.py          48      9    81%
+/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/serialization/ssh.py           79     63    20%
+/usr/lib/python3/dist-packages/cryptography/utils.py                                        106     35    67%
+/usr/lib/python3/dist-packages/cryptography/x509/__init__.py                                 70      0   100%
+/usr/lib/python3/dist-packages/cryptography/x509/base.py                                    337    177    47%
+/usr/lib/python3/dist-packages/cryptography/x509/certificate_transparency.py                 19      0   100%
+/usr/lib/python3/dist-packages/cryptography/x509/extensions.py                              836    464    44%
+/usr/lib/python3/dist-packages/cryptography/x509/general_name.py                            200    116    42%
+/usr/lib/python3/dist-packages/cryptography/x509/name.py                                    131     78    40%
+/usr/lib/python3/dist-packages/cryptography/x509/ocsp.py                                    197     97    51%
+/usr/lib/python3/dist-packages/cryptography/x509/oid.py                                      95      0   100%
+/usr/lib/python3/dist-packages/idna/__init__.py                                               2      0   100%
+/usr/lib/python3/dist-packages/idna/core.py                                                 280    242    14%
+/usr/lib/python3/dist-packages/idna/idnadata.py                                               4      0   100%
+/usr/lib/python3/dist-packages/idna/intranges.py                                             29     24    17%
+/usr/lib/python3/dist-packages/idna/package_data.py                                           1      0   100%
+/usr/lib/python3/dist-packages/jinja2/__init__.py                                            18      0   100%
+/usr/lib/python3/dist-packages/jinja2/_compat.py                                             63     31    51%
+/usr/lib/python3/dist-packages/jinja2/_identifier.py                                          1      0   100%
+/usr/lib/python3/dist-packages/jinja2/asyncfilters.py                                        88     42    52%
+/usr/lib/python3/dist-packages/jinja2/asyncsupport.py                                       175    104    41%
+/usr/lib/python3/dist-packages/jinja2/bccache.py                                            161    118    27%
+/usr/lib/python3/dist-packages/jinja2/compiler.py                                          1151    991    14%
+/usr/lib/python3/dist-packages/jinja2/defaults.py                                            20      0   100%
+/usr/lib/python3/dist-packages/jinja2/environment.py                                        521    409    21%
+/usr/lib/python3/dist-packages/jinja2/exceptions.py                                          72     49    32%
+/usr/lib/python3/dist-packages/jinja2/filters.py                                            397    293    26%
+/usr/lib/python3/dist-packages/jinja2/idtracking.py                                         204    155    24%
+/usr/lib/python3/dist-packages/jinja2/lexer.py                                              353    229    35%
+/usr/lib/python3/dist-packages/jinja2/loaders.py                                            225    170    24%
+/usr/lib/python3/dist-packages/jinja2/nodes.py                                              456    241    47%
+/usr/lib/python3/dist-packages/jinja2/optimizer.py                                           17      8    53%
+/usr/lib/python3/dist-packages/jinja2/parser.py                                             638    579     9%
+/usr/lib/python3/dist-packages/jinja2/runtime.py                                            431    298    31%
+/usr/lib/python3/dist-packages/jinja2/tests.py                                               55     27    51%
+/usr/lib/python3/dist-packages/jinja2/utils.py                                              317    219    31%
+/usr/lib/python3/dist-packages/jinja2/visitor.py                                             40     31    22%
+/usr/lib/python3/dist-packages/markupsafe/__init__.py                                       165     92    44%
+/usr/lib/python3/dist-packages/markupsafe/_compat.py                                         18      8    56%
+/usr/lib/python3/dist-packages/requests/__init__.py                                          55      9    84%
+/usr/lib/python3/dist-packages/requests/__version__.py                                       10      0   100%
+/usr/lib/python3/dist-packages/requests/_internal_utils.py                                   16     12    25%
+/usr/lib/python3/dist-packages/requests/adapters.py                                         222    171    23%
+/usr/lib/python3/dist-packages/requests/api.py                                               22     12    45%
+/usr/lib/python3/dist-packages/requests/auth.py                                             174    141    19%
+/usr/lib/python3/dist-packages/requests/certs.py                                              4      1    75%
+/usr/lib/python3/dist-packages/requests/compat.py                                            38     15    61%
+/usr/lib/python3/dist-packages/requests/cookies.py                                          241    177    27%
+/usr/lib/python3/dist-packages/requests/exceptions.py                                        35      6    83%
+/usr/lib/python3/dist-packages/requests/hooks.py                                             15     11    27%
+/usr/lib/python3/dist-packages/requests/models.py                                           457    373    18%
+/usr/lib/python3/dist-packages/requests/packages.py                                           6      0   100%
+/usr/lib/python3/dist-packages/requests/sessions.py                                         284    233    18%
+/usr/lib/python3/dist-packages/requests/status_codes.py                                      15      0   100%
+/usr/lib/python3/dist-packages/requests/structures.py                                        39     19    51%
+/usr/lib/python3/dist-packages/requests/utils.py                                            444    376    15%
+/usr/lib/python3/dist-packages/simplejson/__init__.py                                        80     57    29%
+/usr/lib/python3/dist-packages/simplejson/compat.py                                          29     16    45%
+/usr/lib/python3/dist-packages/simplejson/decoder.py                                        225    178    21%
+/usr/lib/python3/dist-packages/simplejson/encoder.py                                        394    341    13%
+/usr/lib/python3/dist-packages/simplejson/errors.py                                          29     23    21%
+/usr/lib/python3/dist-packages/simplejson/raw_json.py                                         3      1    67%
+/usr/lib/python3/dist-packages/simplejson/scanner.py                                         64     53    17%
+/usr/lib/python3/dist-packages/socks.py                                                     427    340    20%
+/usr/lib/python3/dist-packages/urllib3/__init__.py                                           33      8    76%
+/usr/lib/python3/dist-packages/urllib3/_collections.py                                      182    133    27%
+/usr/lib/python3/dist-packages/urllib3/connection.py                                        173    116    33%
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py                                    315    255    19%
+/usr/lib/python3/dist-packages/urllib3/contrib/__init__.py                                    0      0   100%
+/usr/lib/python3/dist-packages/urllib3/contrib/_appengine_environ.py                         11      1    91%
+/usr/lib/python3/dist-packages/urllib3/contrib/pyopenssl.py                                 248    161    35%
+/usr/lib/python3/dist-packages/urllib3/contrib/socks.py                                      75     51    32%
+/usr/lib/python3/dist-packages/urllib3/exceptions.py                                         96     21    78%
+/usr/lib/python3/dist-packages/urllib3/fields.py                                             90     70    22%
+/usr/lib/python3/dist-packages/urllib3/filepost.py                                           43     30    30%
+/usr/lib/python3/dist-packages/urllib3/packages/__init__.py                                   8      2    75%
+/usr/lib/python3/dist-packages/urllib3/packages/backports/__init__.py                         0      0   100%
+/usr/lib/python3/dist-packages/urllib3/packages/backports/makefile.py                        36     32    11%
+/usr/lib/python3/dist-packages/urllib3/packages/ssl_match_hostname/__init__.py               11      6    45%
+/usr/lib/python3/dist-packages/urllib3/poolmanager.py                                       170    130    24%
+/usr/lib/python3/dist-packages/urllib3/request.py                                            39     28    28%
+/usr/lib/python3/dist-packages/urllib3/response.py                                          399    318    20%
+/usr/lib/python3/dist-packages/urllib3/util/__init__.py                                      10      0   100%
+/usr/lib/python3/dist-packages/urllib3/util/connection.py                                    66     45    32%
+/usr/lib/python3/dist-packages/urllib3/util/queue.py                                         14      5    64%
+/usr/lib/python3/dist-packages/urllib3/util/request.py                                       50     38    24%
+/usr/lib/python3/dist-packages/urllib3/util/response.py                                      35     29    17%
+/usr/lib/python3/dist-packages/urllib3/util/retry.py                                        150    102    32%
+/usr/lib/python3/dist-packages/urllib3/util/ssl_.py                                         148    112    24%
+/usr/lib/python3/dist-packages/urllib3/util/timeout.py                                       63     42    33%
+/usr/lib/python3/dist-packages/urllib3/util/url.py                                          203    150    26%
+/usr/lib/python3/dist-packages/urllib3/util/wait.py                                          76     58    24%
+allauthproject/__init__.py                                                                    0      0   100%
+allauthproject/settings.py                                                                   22      0   100%
+allauthproject/urls.py                                                                        5      0   100%
+app/__init__.py                                                                               0      0   100%
+app/admin.py                                                                                  1      0   100%
+app/forms.py                                                                                  6      0   100%
+app/migrations/__init__.py                                                                    0      0   100%
+app/models.py                                                                                 8      0   100%
+app/tests.py                                                                                  1      0   100%
+app/views.py                                                                                 34     23    32%
+manage.py                                                                                    12      2    83%
+-------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                     23678  16208    32%
+
+
+
+                                                 <!-- COverage app Report  -->
+
+Name                             Stmts   Miss  Cover
+----------------------------------------------------
+app/__init__.py                      0      0   100%
+app/admin.py                         1      0   100%
+app/apps.py                          3      3     0%
+app/forms.py                         6      0   100%
+app/migrations/0001_initial.py       5      5     0%
+app/migrations/__init__.py           0      0   100%
+app/models.py                        8      0   100%
+app/tests.py                         1      0   100%
+app/views.py                        34     23    32%
+----------------------------------------------------
+TOTAL                               58     31    47%
+
+
+
+                                                 <!-- COverage allauthproject Report  -->
+
+
+Name                         Stmts   Miss  Cover
+------------------------------------------------
+allauthproject/__init__.py       0      0   100%
+allauthproject/asgi.py           4      4     0%
+allauthproject/settings.py      22      0   100%
+allauthproject/urls.py           5      0   100%
+allauthproject/wsgi.py           4      4     0%
+------------------------------------------------
+TOTAL                           35      8    77%
+
+
+
+for more detail coverage see htmlcov file
